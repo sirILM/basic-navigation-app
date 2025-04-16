@@ -18,6 +18,8 @@ export default function TabLayout() {
     );
   }
 
+  // as
+
   return (
     <Tabs
       screenOptions={{
